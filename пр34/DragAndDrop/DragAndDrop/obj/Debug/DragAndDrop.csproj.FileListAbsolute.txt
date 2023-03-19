@@ -1,0 +1,15 @@
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.AssemblyReference.cache
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\MainWindow.g.cs
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\App.g.cs
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.cache
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.lref
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\MainWindow.baml
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.g.resources
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+D:\Course_2\МДК05.02\пр34_incomplete\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
